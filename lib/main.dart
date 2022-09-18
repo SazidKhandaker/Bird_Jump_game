@@ -30,7 +30,7 @@ class _MyHomePageState extends State<MyHomePage> {
   void initState() {
     super.initState();
     Timer(
-        Duration(seconds: 4),
+        Duration(seconds: 10),
         () => Navigator.pushReplacement(
             context, MaterialPageRoute(builder: (context) => game())));
   }

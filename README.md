@@ -1,16 +1,10 @@
-# floppybird
+# Floppy Bird
 
-A new Flutter project.
+A new Flutter project of FloppyBird game.Floppy bird is a classic game that right now are no longer available.
+I develop this game using Flutter.
 
-## Getting Started
+Bird has to jump through the wall and has to survive.if it touch to the ground it will die.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![birdjumpgame](https://user-images.githubusercontent.com/65438013/190912601-522e9498-9cfb-4c2c-b935-bf08f5f78a87.gif)
